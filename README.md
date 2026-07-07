@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
@@ -52,14 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
