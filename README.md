@@ -14,14 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
