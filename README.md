@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3561-resulting-string-after-adjacent-removals) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
