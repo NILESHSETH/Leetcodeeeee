@@ -1,12 +1,34 @@
 class Solution {
 public:
-    vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> s = arr;
-        sort(s.begin(), s.end());
-        s.erase(unique(s.begin(), s.end()), s.end());
-        for (int i = 0; i < arr.size(); i++) {
-            arr[i] = lower_bound(s.begin(), s.end(), arr[i]) - s.begin() + 1;
+    vector<int> arrayRankTransform(vector<int>& nums) {
+        int n = nums.size();
+        set<int> st;
+        for (auto it : nums)
+            st.insert(it);
+        vector<pair<int, int>> v;
+        int rank = 1;
+        for (auto it : st) {
+            v.push_back({rank++, it});
         }
-        return arr;
+
+      
+        for (int i = 0; i < n; i++) {
+            int k = nums[i];
+            int low = 0, high = v.size() - 1;
+
+            while (low <= high) {
+                int mid = low + (high - low) / 2;
+
+                if (v[mid].second == k) {
+                    nums[i] = v[mid].first;
+                    break;
+                } else if (v[mid].second < k)
+                    low = mid + 1;
+                else
+                    high = mid - 1;
+            }
+        }
+
+        return nums;
     }
 };
