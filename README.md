@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
