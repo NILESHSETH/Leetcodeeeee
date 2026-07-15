@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
