@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
