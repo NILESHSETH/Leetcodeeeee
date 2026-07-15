@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
