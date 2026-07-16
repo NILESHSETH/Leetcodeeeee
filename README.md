@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0930-binary-subarrays-with-sum) |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
