@@ -13,12 +13,12 @@ public:
                 continue;
             }
             if (nums[mid] >= nums[lo]) {
-                if ( nums[mid] > target && nums[lo] <= target) {
+                if (nums[lo] <= target && nums[mid] > target) {
                     hi = mid - 1;
                 } else
                     lo = mid + 1;
             } else {
-                if (nums[mid] < target && target <= nums[hi]) {
+                if (nums[mid] < target && nums[hi] >= target) {
                     lo = mid+1;
                 }
                 else hi = mid-1;
