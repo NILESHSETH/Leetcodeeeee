@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1143-longest-common-subsequence) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
