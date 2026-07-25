@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
