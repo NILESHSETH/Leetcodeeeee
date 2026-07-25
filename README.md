@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0930-binary-subarrays-with-sum) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -281,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
