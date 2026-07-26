@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -308,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
