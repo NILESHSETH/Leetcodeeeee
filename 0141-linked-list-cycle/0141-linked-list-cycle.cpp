@@ -15,7 +15,7 @@ public:
         while (fast != NULL && fast->next !=NULL) {
             slow = slow->next;
             fast = fast->next->next;
-            if (slow == fast)
+            if (slow == fast)//initially both are same na so if you check before the traversal you will end up getting bad answer
                 return true;
         }
         return false;
