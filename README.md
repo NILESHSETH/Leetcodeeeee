@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0073-set-matrix-zeroes) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
