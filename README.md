@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
