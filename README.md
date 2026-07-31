@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
