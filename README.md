@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1143-longest-common-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0930-binary-subarrays-with-sum) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1922-count-good-numbers) |
@@ -478,4 +481,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
