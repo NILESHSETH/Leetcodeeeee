@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2643-row-with-maximum-ones) |
