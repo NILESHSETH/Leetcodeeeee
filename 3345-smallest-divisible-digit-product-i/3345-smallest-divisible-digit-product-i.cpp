@@ -1,8 +1,7 @@
 class Solution {
 public:
     int smallestNumber(long long n, int t) {
-        bool ans = true;
-        while(ans){
+        while(true){
             long long num = n;
             int p = 1;
             while( num> 0){
@@ -11,7 +10,6 @@ public:
             }
             if(p%t==0){
                 return n;
-                ans = false;
                 break;
                
             }
