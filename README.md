@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
