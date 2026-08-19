@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
