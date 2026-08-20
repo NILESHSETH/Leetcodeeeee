@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
