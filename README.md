@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0151-reverse-words-in-a-string) |
