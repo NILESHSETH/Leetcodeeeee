@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -595,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -603,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
