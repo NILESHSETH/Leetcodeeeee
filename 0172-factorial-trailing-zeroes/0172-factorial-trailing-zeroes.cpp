@@ -19,7 +19,7 @@ long long helper(int n) {
         //     if(v[i] != 0) break;
         // }
         while(n >= 5){
-            n = n/5;
+            n = n/5;// this will give me no of 5 na 
             cnt+= n;
 
         }
