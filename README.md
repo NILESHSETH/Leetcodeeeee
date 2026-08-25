@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0290-word-pattern) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
