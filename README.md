@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
