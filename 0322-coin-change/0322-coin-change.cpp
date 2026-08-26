@@ -4,6 +4,7 @@ public:
         // if(target == 0) return  dp[ind][target] = 1;
         // if(ind == 0) return  dp[ind][target] = target == nums[0];
         // if(target == 0) return 1;
+        if(target == 0) return 0;
         if(ind == 0){
             if(target%nums[ind] == 0) return target/nums[ind];
             else return 1e9;
