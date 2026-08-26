@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0907-sum-of-subarray-minimums) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -689,8 +692,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
