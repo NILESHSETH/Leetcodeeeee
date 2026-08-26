@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -428,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1386-cinema-seat-allocation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -645,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Memoization
 |  |
@@ -662,4 +669,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0056-merge-intervals) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
