@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
