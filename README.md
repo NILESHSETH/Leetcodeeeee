@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3689-maximum-total-subarray-value-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Minimax
 |  |
 | ------- |
