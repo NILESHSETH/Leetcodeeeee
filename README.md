@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2643-row-with-maximum-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2643-row-with-maximum-ones) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
