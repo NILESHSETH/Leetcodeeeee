@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3903-smallest-stable-index-i) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3582-generate-tag-for-video-caption) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3701-compute-alternating-sum) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
