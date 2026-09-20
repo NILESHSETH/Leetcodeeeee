@@ -747,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
