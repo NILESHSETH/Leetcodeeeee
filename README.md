@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3582-generate-tag-for-video-caption) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Number Theory
 |  |
 | ------- |
