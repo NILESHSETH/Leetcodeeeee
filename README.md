@@ -762,5 +762,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0175-combine-two-tables) |
 | [1075-project-employees-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
