@@ -3,6 +3,7 @@ public:
     void helper(int open, int close, int n, string cur, vector<string>&ans){
         if(open == close && open + close == 2*n){
             ans.push_back(cur);
+            cur = "";
             return;
         }
         if(open < n){
