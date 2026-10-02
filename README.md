@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1075-project-employees-i) |
+| [1667-fix-names-in-a-table](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
