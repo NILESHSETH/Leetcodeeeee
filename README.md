@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0177-nth-highest-salary) |
+| [0610-triangle-judgement](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1075-project-employees-i) |
 | [1729-find-followers-count](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
