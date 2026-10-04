@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3210-find-the-encrypted-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3210-find-the-encrypted-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
