@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1143-longest-common-subsequence) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -803,4 +805,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
