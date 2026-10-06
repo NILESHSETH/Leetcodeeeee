@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1143-longest-common-subsequence) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -811,4 +814,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
