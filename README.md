@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0547-number-of-provinces) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
