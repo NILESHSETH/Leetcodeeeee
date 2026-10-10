@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Shortest Path
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2643-row-with-maximum-ones) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3477-fruits-into-baskets-ii) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
