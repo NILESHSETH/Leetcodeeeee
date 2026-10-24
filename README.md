@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3280-convert-date-to-binary](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3280-convert-date-to-binary) |
