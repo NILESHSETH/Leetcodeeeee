@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0283-move-zeroes) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0628-maximum-product-of-three-numbers) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -852,4 +856,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
