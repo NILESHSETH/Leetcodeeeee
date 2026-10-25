@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0877-stone-game) |
