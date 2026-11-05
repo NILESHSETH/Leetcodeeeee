@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2149-rearrange-array-elements-by-sign) |
