@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1587-bank-account-summary-ii) |
