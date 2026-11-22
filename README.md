@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NILESHSETH/Leetcodeeeee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
